@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.easyliu.demo.toolbardemo.MainActivity">
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="?attr/colorPrimary"
+        android:theme="@style/ThemeOverlay.AppCompat.ActionBar"
+        app:popupTheme="@style/ThemeOverlay.AppCompat.Light"
+        android:elevation="4dp"
+        app:logo="@mipmap/ic_launcher"
+        app:navigationIcon="@drawable/ic_drawer"
+        app:subtitle="sub Title"
+        app:title="Title" />
+
+    <EditText
+        android:layout_below="@id/toolbar"
+        android:id="@+id/et_userName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="input userName" />
+
+    <EditText
+        android:id="@+id/et_passWord"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/et_userName"
+        android:layout_marginTop="10dp"
+        android:hint="input passWord" />
+
+    <RadioGroup
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/et_passWord">
+
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="male"
+            android:textSize="20sp" />
+
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="female"
+            android:textSize="20sp" />
+    </RadioGroup>
+</RelativeLayout>
