@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FloatinglabelsForEditTextDemo</string>
+    <string name="form_username">Input a username</string>
+</resources>
