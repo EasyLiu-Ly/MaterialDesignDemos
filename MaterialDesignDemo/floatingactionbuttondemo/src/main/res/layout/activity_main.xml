@@ -18,6 +18,7 @@
         android:layout_alignParentRight="true"
         android:elevation="4dp"
         android:src="@drawable/ic_add_black_24dp"
+        app:backgroundTint="@color/colorPrimary"
         app:fabSize="normal"
         app:rippleColor="#33728dff"
         app:useCompatPadding="true" />
