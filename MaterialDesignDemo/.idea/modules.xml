@@ -4,6 +4,10 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/MaterialDesignDemo.iml" filepath="$PROJECT_DIR$/MaterialDesignDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/floatingactionbuttondemo/floatingactionbuttondemo.iml" filepath="$PROJECT_DIR$/floatingactionbuttondemo/floatingactionbuttondemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/floatinglabelsforedittextdemo/floatinglabelsforedittextdemo.iml" filepath="$PROJECT_DIR$/floatinglabelsforedittextdemo/floatinglabelsforedittextdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/navigationviewdemo/navigationviewdemo.iml" filepath="$PROJECT_DIR$/navigationviewdemo/navigationviewdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/snackbardemo/snackbardemo.iml" filepath="$PROJECT_DIR$/snackbardemo/snackbardemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/toolbardemo/toolbardemo.iml" filepath="$PROJECT_DIR$/toolbardemo/toolbardemo.iml" />
     </modules>
   </component>
