@@ -13,4 +13,16 @@ navigationView:
 
 ![image](https://github.com/EasyLiu-Ly/MaterialDesignDemos/blob/master/navigationView.png)
 
+FloatingActionButton:
+
+![image](https://github.com/EasyLiu-Ly/MaterialDesignDemos/blob/master/FloatingActionButton.png)
+
+FloatingLabelsForEditText:
+
+![image](https://github.com/EasyLiu-Ly/MaterialDesignDemos/blob/master/FloatingLabelsForEditText.png)
+
+TabLayout:
+
+![image](https://github.com/EasyLiu-Ly/MaterialDesignDemos/blob/master/TabLayoutDemo.png)
+
 
