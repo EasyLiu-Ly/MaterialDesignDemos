@@ -13,4 +13,8 @@ navigationView:
 
 ![image](https://github.com/EasyLiu-Ly/MaterialDesignDemos/blob/master/navigationView.png)
 
+FloatingActionButton:
+
+![image](https://github.com/EasyLiu-Ly/MaterialDesignDemos/blob/master/FloatingActionButton.png)
+
 
