@@ -10,7 +10,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        findViewById(R.id.fab_demo).setOnClickListener(new View.OnClickListener() {
+        findViewById(R.id.fab_demo2).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
 

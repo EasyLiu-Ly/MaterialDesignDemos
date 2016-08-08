@@ -11,16 +11,43 @@
     tools:context="com.easyliu.demo.floatingactionbuttondemo.MainActivity">
 
     <android.support.design.widget.FloatingActionButton
-        android:id="@+id/fab_demo"
+        android:id="@+id/fab_demo1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:elevation="4dp"
+        android:src="@drawable/ic_add_black_24dp"
+        app:backgroundTint="#00ff00"
+        app:fabSize="normal"
+        app:pressedTranslationZ="12dp"
+        app:rippleColor="#33728dff"
+        app:useCompatPadding="true" />
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/fab_demo2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
-        android:layout_alignParentRight="true"
+        android:layout_alignParentLeft="true"
         android:elevation="4dp"
         android:src="@drawable/ic_add_black_24dp"
-        app:backgroundTint="@color/colorPrimary"
         app:fabSize="normal"
+        app:pressedTranslationZ="12dp"
         app:rippleColor="#33728dff"
         app:useCompatPadding="true" />
+
+    <android.support.design.widget.FloatingActionButton
+    android:id="@+id/fab_demo3"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_alignParentBottom="true"
+    android:layout_alignParentRight="true"
+    android:elevation="4dp"
+    android:src="@drawable/ic_add_black_24dp"
+    app:backgroundTint="@color/colorPrimary"
+    app:fabSize="normal"
+    app:pressedTranslationZ="12dp"
+    app:rippleColor="#33728dff"
+    app:useCompatPadding="true" />
 
 </RelativeLayout>
