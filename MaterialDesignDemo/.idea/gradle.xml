@@ -3,16 +3,20 @@
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
-        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="distributionType" value="LOCAL" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="I:\Android Studio\gradle\gradle-2.10" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/coordinatorlayoutdemos" />
             <option value="$PROJECT_DIR$/floatingactionbuttondemo" />
             <option value="$PROJECT_DIR$/floatinglabelsforedittextdemo" />
             <option value="$PROJECT_DIR$/navigationviewdemo" />
+            <option value="$PROJECT_DIR$/recyclerviewdemo" />
             <option value="$PROJECT_DIR$/snackbardemo" />
+            <option value="$PROJECT_DIR$/tablayoutdemo" />
             <option value="$PROJECT_DIR$/toolbardemo" />
           </set>
         </option>
@@ -20,10 +24,13 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/coordinatorlayoutdemos" />
             <option value="$PROJECT_DIR$/floatingactionbuttondemo" />
             <option value="$PROJECT_DIR$/floatinglabelsforedittextdemo" />
             <option value="$PROJECT_DIR$/navigationviewdemo" />
+            <option value="$PROJECT_DIR$/recyclerviewdemo" />
             <option value="$PROJECT_DIR$/snackbardemo" />
+            <option value="$PROJECT_DIR$/tablayoutdemo" />
             <option value="$PROJECT_DIR$/toolbardemo" />
           </set>
         </option>
