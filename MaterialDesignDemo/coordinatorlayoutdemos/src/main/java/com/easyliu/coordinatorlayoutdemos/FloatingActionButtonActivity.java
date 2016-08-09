@@ -30,5 +30,4 @@ public class FloatingActionButtonActivity extends AppCompatActivity {
             }
         });
     }
-
 }
