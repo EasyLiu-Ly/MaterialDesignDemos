@@ -10,10 +10,7 @@ import android.support.v7.widget.Toolbar;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
-import android.view.ViewGroup;
-import android.widget.TextView;
 
-import com.easyliu.coordinatorlayoutdemos.MyItemRecyclerViewAdapter;
 import com.easyliu.coordinatorlayoutdemos.R;
 
 import java.util.ArrayList;

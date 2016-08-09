@@ -6,6 +6,8 @@ import android.os.Bundle;
 import android.view.View;
 
 import com.easyliu.coordinatorlayoutdemos.CollapsingToolbar.CollapsingDemoActivity;
+import com.easyliu.coordinatorlayoutdemos.CoordinatorFloatingActionButton.FloatingActionButtonActivity;
+import com.easyliu.coordinatorlayoutdemos.CoordinatorToolbar.CoordinatorToolbarActivity;
 
 public class SplashActivity extends AppCompatActivity {
 
@@ -24,7 +26,7 @@ public class SplashActivity extends AppCompatActivity {
 
             @Override
             public void onClick(View view) {
-                startActivity(new Intent(SplashActivity.this,MainActivity.class));
+                startActivity(new Intent(SplashActivity.this,CoordinatorToolbarActivity.class));
             }
         });
 
