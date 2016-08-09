@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CoordinatorLayoutDemos</string>
+    <string name="title_activity_floating_action_button">FloatingActionButton</string>
+</resources>
