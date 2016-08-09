@@ -29,3 +29,8 @@ RecyclerView:
 
 ![image](https://github.com/EasyLiu-Ly/MaterialDesignDemos/blob/master/recyclerViewGif.gif)
 
+CoordinatorFloatingActionButton:
+
+![iamge](https://github.com/EasyLiu-Ly/MaterialDesignDemos/blob/master/CoordinatorFloatingActionButton.gif)
+
+
