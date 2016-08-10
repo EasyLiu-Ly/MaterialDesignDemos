@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/myCoordinatorLayout"
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
@@ -14,30 +15,32 @@
             android:layout_height="?attr/actionBarSize"
             android:background="?attr/colorPrimary"
             app:layout_scrollFlags="scroll|enterAlways"
-            app:logo="@mipmap/ic_launcher"
+            app:logo="@android:drawable/ic_dialog_dialer"
             app:popupTheme="@style/ThemeOverlay.AppCompat.Light"
             app:subtitle="sub Title"
             app:title="Title" />
-
-        <android.support.design.widget.TabLayout
-            android:id="@+id/tabl_demo"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content" />
-
     </android.support.design.widget.AppBarLayout>
 
-    <android.support.v4.view.ViewPager
-        android:id="@+id/viewpaegr_demo"
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/my_recycler_view"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
+        android:scrollbars="vertical"
         app:layout_behavior="@string/appbar_scrolling_view_behavior" />
 
     <android.support.design.widget.FloatingActionButton
-        android:id="@+id/fab_demo"
+        android:id="@+id/fab_demo3"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="bottom|end"
-        android:layout_margin="@dimen/fab_margin"
-        android:src="@android:drawable/ic_dialog_email"
-        app:layout_behavior="com.easyliu.coordinatorlayoutdemos.CoordinatorToolbar.ScrollAwareFABBehaviorDefault" />
+        android:layout_margin="@dimen/activity_horizontal_margin"
+        android:elevation="4dp"
+        android:src="@android:drawable/ic_input_add"
+        app:backgroundTint="@color/colorPrimary"
+        app:fabSize="normal"
+        app:layout_behavior="com.easyliu.cardviewdemo.ScrollAwareFABBehaviorDefault"
+        app:pressedTranslationZ="12dp"
+        app:rippleColor="#33728dff"
+        app:useCompatPadding="true" />
+
 </android.support.design.widget.CoordinatorLayout>
