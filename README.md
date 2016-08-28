@@ -41,5 +41,10 @@ CoordinatorCollaspingLayout:
 
 ![iamge](https://github.com/EasyLiu-Ly/MaterialDesignDemos/blob/master/CoordinatorCollaspingLayout.gif)
 
+FloatingActionButtonWithRecyclerView:
 
+![image](https://github.com/EasyLiu-Ly/MaterialDesignDemos/blob/master/FloatingActionButtonWithRecyclerView.png)
 
+CardView:
+
+![image](https://github.com/EasyLiu-Ly/MaterialDesignDemos/blob/master/cardViewDemo.gif)
