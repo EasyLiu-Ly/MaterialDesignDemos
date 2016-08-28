@@ -61,4 +61,8 @@ Palette:
 
 ![image](https://github.com/EasyLiu-Ly/MaterialDesignDemos/blob/master/drawablePalette.gif)
 
+VectorDrawable:
+
+![image](https://github.com/EasyLiu-Ly/MaterialDesignDemos/blob/master/VectorDrawable.png)
+
 
