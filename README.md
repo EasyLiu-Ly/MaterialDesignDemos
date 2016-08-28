@@ -51,10 +51,14 @@ CardView:
 
 Elevation and shadows:
 
-![iamge](https://github.com/EasyLiu-Ly/MaterialDesignDemos/blob/master/shadows.png)
+![image](https://github.com/EasyLiu-Ly/MaterialDesignDemos/blob/master/shadows.png)
 
 DrawableTint:
 
-![iamge](https://github.com/EasyLiu-Ly/MaterialDesignDemos/blob/master/drawableTint.png)
+![image](https://github.com/EasyLiu-Ly/MaterialDesignDemos/blob/master/drawableTint.png)
+
+Palette:
+
+![image](https://github.com/EasyLiu-Ly/MaterialDesignDemos/blob/master/drawablePalette.gif)
 
 
