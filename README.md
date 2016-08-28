@@ -53,4 +53,8 @@ Elevation and shadows:
 
 ![iamge](https://github.com/EasyLiu-Ly/MaterialDesignDemos/blob/master/shadows.png)
 
+DrawableTint:
+
+![iamge](https://github.com/EasyLiu-Ly/MaterialDesignDemos/blob/master/drawableTint.png)
+
 
