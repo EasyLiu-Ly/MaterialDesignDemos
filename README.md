@@ -48,3 +48,9 @@ FloatingActionButtonWithRecyclerView:
 CardView:
 
 ![image](https://github.com/EasyLiu-Ly/MaterialDesignDemos/blob/master/cardViewDemo.gif)
+
+Elevation and shadows:
+
+![iamge](https://github.com/EasyLiu-Ly/MaterialDesignDemos/blob/master/shadows.png)
+
+
