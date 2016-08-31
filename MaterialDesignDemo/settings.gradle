@@ -1,1 +1,1 @@
-include ':app', ':toolbardemo', ':navigationviewdemo', ':floatinglabelsforedittextdemo', ':floatingactionbuttondemo', ':snackbardemo', ':tablayoutdemo', ':coordinatorlayoutdemos', ':recyclerviewdemo'
+include ':app', ':toolbardemo', ':navigationviewdemo', ':floatinglabelsforedittextdemo', ':floatingactionbuttondemo', ':snackbardemo', ':tablayoutdemo', ':coordinatorlayoutdemos', ':recyclerviewdemo', ':cardviewdemo', ':elevationandshadows', ':drawables', ':customizeanimation'
