@@ -1,5 +1,6 @@
 # MaterialDesignDemos
-This is a Android studio project including some demos about Material Design.
+
+This is a Android studio project including some demos about Material Design Theme and Android Design Support Library.
 
 materialDesign:
 
