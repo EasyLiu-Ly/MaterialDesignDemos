@@ -2,7 +2,7 @@
 
 This is a Android studio project including some demos about Material Design Theme and Android Design Support Library.
 
-Please refer to:http://blog.csdn.net/liuyi1207164339
+For more information,please refer to my blog:http://blog.csdn.net/liuyi1207164339
 
 materialDesign:
 
